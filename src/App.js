@@ -14,16 +14,18 @@ import './Forecast.css';
 
 function App() {
   return (
-    <div className="App container">
-      
-        <Searchbox />
-        <Currentinfo />
-        <Currentweather />
-        <Forecast />
+      <div className="App container">
         
-        
-      
-    </div>
+          <Searchbox />
+          <Currentinfo />
+          <Currentweather />
+          <Forecast />
+          <small><a href="https://github.com/Katarina175/vanilla-my-weather-app" target="blank">Open-source code</a> by Katarina Avedaño
+          </small>
+
+      </div>
+    
+    
   );
 }
 
