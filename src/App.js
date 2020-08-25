@@ -20,7 +20,7 @@ function App() {
           <Currentinfo />
           <Currentweather />
           <Forecast />
-          <small><a href="https://github.com/Katarina175/vanilla-my-weather-app" target="blank">Open-source code</a> by Katarina Avedaño
+          <small><a href="https://github.com/Katarina175/react-weather-app-project" target="blank">Open-source code</a> by Katarina Avedaño
           </small>
 
       </div>
