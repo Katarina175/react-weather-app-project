@@ -1,0 +1,22 @@
+.Currentinfo li {
+  list-style: none;
+}
+.Currentinfo ul {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 40px;
+}
+.Currentinfo h1 {
+  padding-top: 20px;
+  font-family: "Caveat";
+  font-weight: bolder;
+  color: #45a7ca;
+  font-size: 2.5rem;
+  line-height: 1.2;
+}
+
+.Currentinfo ul {
+  color: white;
+  font-family: "Overpass", sans-serif;
+  font-size: 24px;
+}
